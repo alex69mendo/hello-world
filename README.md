@@ -1,2 +1,2 @@
 # hello-world
-Practica para enteneder github
+Practica para entender github
